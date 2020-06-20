@@ -1,0 +1,51 @@
+
+    .text-color{
+      
+        color: #05668d;
+      }
+  
+      h1{
+          text-align: center;
+      }
+
+      .center, img{
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      Ul{
+
+        list-style-type: none;
+
+      }
+
+      .ps4{
+
+        background-color: blue;
+      }
+
+      .nintendo{
+
+        background-color: #d00000;
+      }
+
+      .pc{
+
+        background-color: #2b9348;
+      }
+
+      table, th, td {
+        border: 2px solid rgb(2, 2, 2);
+      }
+
+      .center2{
+
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        width: 30%;
+      }
+
+   
